@@ -11,7 +11,7 @@ namespace SuperHeroAPI.Controllers
 
         private static List<Hero> _heroes = new List<Hero>()
         {
-            new Hero(){Id=1, Name="Tony Stark", Team="Avengers", SuperHeroName="IronMan"},
+            new Hero(){Id=1, Name="Tony bark", Team="Avengers", SuperHeroName="IronMan"},
             new Hero(){Id=2, Name="Brunce Wayne", Team="Justice League", SuperHeroName="Batman"}
         };
 
